@@ -1,0 +1,64 @@
+[
+    {
+        "id": "1",
+        "username": "Joe Doe",
+        "avatarPath": "/images/avatar1.jpg",
+        "lastMessage": {
+            "id": "1",
+            "text": "Hey, how's it going?",
+            "contentType": "text",
+            "status": "unread",
+            "recipientId": "abc123",
+            "senderId": "user001",
+            "timestamp": "1692086400000"
+        },
+        "unreadCount": "3",
+        "isTyping": true
+    },
+    {
+        "id": "2",
+        "username": "Jane Smith",
+        "avatarPath": "/images/avatar2.jpg",
+        "lastMessage": {
+            "id": "2",
+            "text": "Don't forget our meeting tomorrow!",
+            "contentType": "text",
+            "status": "read",
+            "recipientId": "user002",
+            "senderId": "abc123",
+            "timestamp": "1692172800000"
+        },
+        "unreadCount": "1"
+    },
+    {
+        "id": "3",
+        "username": "Michael Brown",
+        "avatarPath": "/images/avatar3.jpg",
+        "lastMessage": {
+            "id": "3",
+            "text": "Thanks for the update!",
+            "contentType": "text",
+            "status": "unread",
+            "recipientId": "abc123",
+            "senderId": "user003",
+            "timestamp": "1692259200000"
+        },
+        "unreadCount": "2"
+    },
+    {
+        "id": "4",
+        "username": "Emily Davis",
+        "avatarPath": "/images/avatar4.jpg",
+        "lastMessage": {
+            "id": "4",
+            "text": "Let's catch up soon.",
+            "contentType": "text",
+            "status": "read",
+            "recipientId": "user004",
+            "senderId": "abc123",
+            "timestamp": "1692345600000"
+        },
+        "unreadCount": "0"
+    }
+]
+
